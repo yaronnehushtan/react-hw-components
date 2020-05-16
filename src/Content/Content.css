@@ -1,8 +1,4 @@
 .Content {
-    border: 5px solid yellow;
-    color: yellow;
-    padding-top: 20px;
-    width: 75%;
+    padding: 10px;
     height: 400px;
-    text-align: center;
 }

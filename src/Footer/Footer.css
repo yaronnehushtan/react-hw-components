@@ -1,7 +1,8 @@
 .Footer {
-    border: 5px solid plum;
-    color: plum;
+    /* border: 5px solid plum; */
+    color: white;
     padding-top: 20px;
-    height: 150px;
+    height: 100px;
     text-align: center;
+    background-color: black;
 }

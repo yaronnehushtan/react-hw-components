@@ -1,6 +1,7 @@
 .Header {
-    border: 5px solid orange;
-    color: orange;
+    /* border: 5px solid orange; */
+    color: white; 
+    background-color:#008AE6;
     padding: 20px 20px;
     height: 100px;
 }
